@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, eu sou James Anderson! 👋
 
-<!--
-**nascjames7/nascjames7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estou trabalhando na área: full stack
+- 🌱 Estou estudando Desenvolvimento de Sistemas e focando no bootcamp Decola Tech Avanade 2025!
+- 👯 Estou colaborando em projeto de pesquisa de difusão científica e tecnológica via FACEPE. 
+- 💬 Posso ajudar em Java, Javascript, Python e C.
+- 📫 Contate-me pelo e-mail: nascjames@hotmail.com
+- 😄 Pronouns: ele/dele
+
+  <div>
+    <a href="https://github.com/nascjames7">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nascjames7&show_icons=true&theme=dracula&include_all_commits=true&count_public=true/_">
+  </div>
+
+
